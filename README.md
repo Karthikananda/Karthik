@@ -12,4 +12,5 @@ commit made at 04:30pm, 06/10/2018.
 Lambda Expression Practice Application
 commit made at 05:38pm, 09/10/2018.
 
-
+Stream API Practice
+commit made at 05:41pm, 09/10/2018
