@@ -8,3 +8,8 @@ commit made at 06:36pm, 05/10/2018.
 
 Date Difference Application
 commit made at 04:30pm, 06/10/2018.
+
+Lambda Expression Practice Application
+commit made at 05:38pm, 09/10/2018.
+
+
