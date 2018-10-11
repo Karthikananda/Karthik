@@ -13,4 +13,7 @@ Lambda Expression Practice Application
 commit made at 05:38pm, 09/10/2018.
 
 Stream API Practice
-commit made at 05:41pm, 09/10/2018
+commit made at 05:41pm, 09/10/2018.
+
+Spring-Logger Application 
+commit made at 11:16am, 11/10/2018.
